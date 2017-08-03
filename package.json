@@ -1,0 +1,9 @@
+{
+  "name": "sampleprojectlinux",
+  "scripts": {
+    "run test": "nightwatch --group google --tags googleDemo"
+  },
+  "dependencies": {
+    "nightwatch": "^0.9.16"
+  }
+}

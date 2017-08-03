@@ -1,0 +1,1 @@
+Sample nightwatch.js test environment on Linux
