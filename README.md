@@ -1,1 +1,1 @@
-Sample nightwatch.js test environment on Linux
+Sample nightwatch.js test environment for Linux
