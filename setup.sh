@@ -23,4 +23,4 @@ mv ./geckodriver ./Drivers
 rm ./geckodriver-v0.18.0-linux64.tar.gz
 
 # Install nightwatch.js
-npm install
+yarn install
